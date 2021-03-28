@@ -1,7 +1,7 @@
 -  Hi, I’m @Exspiravit-sh. 
 -  I’m interested in cybersecurity and ethical hacking. 
 -  I’m currently learning security and networking. 
--  How to reach me <a href="exspiravit@blackhost.xyz"> 
+-  <a href="exspiravit@blackhost.xyz">Send an email here if you need to contact me</a>
 
 -  How to donate
 -  <a href="https://liberapay.com/Exspiravit.sh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
